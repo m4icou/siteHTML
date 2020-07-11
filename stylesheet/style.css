@@ -1,0 +1,37 @@
+.jumbotron-fluid{
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+}
+
+.my-4{
+    border-color: #FFFFFF;
+}
+
+.display-4, .lead, .btn.btn-primary.btn-lg, #txtjumbo{
+    margin-left: 3%;
+}
+
+#itemfooter{
+    color: #FFFFFF;
+    padding-left: 0%;
+}
+
+#lista-redes, .my-4{
+    width: 100%;
+}
+
+.txtfooter{
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
+
+li{
+    list-style-type: none;
+}
+
+
+
